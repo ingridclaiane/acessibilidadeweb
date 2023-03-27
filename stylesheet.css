@@ -1,0 +1,36 @@
+body {
+    background: #351919;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-self: center;
+    color: #00b47b;
+}
+
+img {
+    width: 800px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.container-main{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 100vh;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 18pt;
+}
+
+.container-img{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 100vh;
+    justify-content: center;
+    font-family: Arial;
+}
